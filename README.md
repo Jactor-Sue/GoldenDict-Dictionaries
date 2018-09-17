@@ -1,0 +1,2 @@
+# GoldenDict-Dictionaries
+GoldenDict Dictionaries
